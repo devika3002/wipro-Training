@@ -1,0 +1,15 @@
+C:\Users\Prudhvi\OneDrive\Documents\wipro-Training\Day-5_ExceptionHandling\Day-5_FileHandling\bin\Debug\net10.0\Day-5_FileHandling.exe
+C:\Users\Prudhvi\OneDrive\Documents\wipro-Training\Day-5_ExceptionHandling\Day-5_FileHandling\bin\Debug\net10.0\Day-5_FileHandling.deps.json
+C:\Users\Prudhvi\OneDrive\Documents\wipro-Training\Day-5_ExceptionHandling\Day-5_FileHandling\bin\Debug\net10.0\Day-5_FileHandling.runtimeconfig.json
+C:\Users\Prudhvi\OneDrive\Documents\wipro-Training\Day-5_ExceptionHandling\Day-5_FileHandling\bin\Debug\net10.0\Day-5_FileHandling.dll
+C:\Users\Prudhvi\OneDrive\Documents\wipro-Training\Day-5_ExceptionHandling\Day-5_FileHandling\bin\Debug\net10.0\Day-5_FileHandling.pdb
+C:\Users\Prudhvi\OneDrive\Documents\wipro-Training\Day-5_ExceptionHandling\Day-5_FileHandling\obj\Debug\net10.0\Day-5_FileHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prudhvi\OneDrive\Documents\wipro-Training\Day-5_ExceptionHandling\Day-5_FileHandling\obj\Debug\net10.0\Day-5_FileHandling.AssemblyInfoInputs.cache
+C:\Users\Prudhvi\OneDrive\Documents\wipro-Training\Day-5_ExceptionHandling\Day-5_FileHandling\obj\Debug\net10.0\Day-5_FileHandling.AssemblyInfo.cs
+C:\Users\Prudhvi\OneDrive\Documents\wipro-Training\Day-5_ExceptionHandling\Day-5_FileHandling\obj\Debug\net10.0\Day-5_FileHandling.csproj.CoreCompileInputs.cache
+C:\Users\Prudhvi\OneDrive\Documents\wipro-Training\Day-5_ExceptionHandling\Day-5_FileHandling\obj\Debug\net10.0\Day-5_FileHandling.sourcelink.json
+C:\Users\Prudhvi\OneDrive\Documents\wipro-Training\Day-5_ExceptionHandling\Day-5_FileHandling\obj\Debug\net10.0\Day-5_FileHandling.dll
+C:\Users\Prudhvi\OneDrive\Documents\wipro-Training\Day-5_ExceptionHandling\Day-5_FileHandling\obj\Debug\net10.0\refint\Day-5_FileHandling.dll
+C:\Users\Prudhvi\OneDrive\Documents\wipro-Training\Day-5_ExceptionHandling\Day-5_FileHandling\obj\Debug\net10.0\Day-5_FileHandling.pdb
+C:\Users\Prudhvi\OneDrive\Documents\wipro-Training\Day-5_ExceptionHandling\Day-5_FileHandling\obj\Debug\net10.0\Day-5_FileHandling.genruntimeconfig.cache
+C:\Users\Prudhvi\OneDrive\Documents\wipro-Training\Day-5_ExceptionHandling\Day-5_FileHandling\obj\Debug\net10.0\ref\Day-5_FileHandling.dll

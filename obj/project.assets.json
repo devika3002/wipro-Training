@@ -13,11 +13,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\Prudhvi\\OneDrive\\Documents\\wipro-Training\\Day-6\\Day-6.csproj",
       "projectName": "Day-6",
       "projectPath": "C:\\Users\\Prudhvi\\OneDrive\\Documents\\wipro-Training\\Day-6\\Day-6.csproj",
       "packagesPath": "C:\\Users\\Prudhvi\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Prudhvi\\OneDrive\\Documents\\wipro-Training\\Day-6\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\Prudhvi\\OneDrive\\Documents\\wipro-Training\\Day-5_ExceptionHandling\\Day-5_FileHandling\\Day-5_FileHandling.csproj",
+      "projectName": "Day-5_FileHandling",
+      "projectPath": "C:\\Users\\Prudhvi\\OneDrive\\Documents\\wipro-Training\\Day-5_ExceptionHandling\\Day-5_FileHandling\\Day-5_FileHandling.csproj",
+      "packagesPath": "C:\\Users\\Prudhvi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Prudhvi\\OneDrive\\Documents\\wipro-Training\\Day-5_ExceptionHandling\\Day-5_FileHandling\\obj\\",
+>>>>>>> 3ce625b843563984856f0b8ddf5eb1321f3c5171
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Prudhvi\\AppData\\Roaming\\NuGet\\NuGet.Config"

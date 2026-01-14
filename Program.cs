@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿using System;
 using  System.Collections.Generic;
 namespace Demo_Collection_stack_queue

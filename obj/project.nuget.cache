@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "a4ARHx6A04g=",
   "success": true,
   "projectFilePath": "C:\\Users\\Prudhvi\\OneDrive\\Documents\\wipro-Training\\Day-6\\Day-6.csproj",
+=======
+  "dgSpecHash": "enTgCXKFRBc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Prudhvi\\OneDrive\\Documents\\wipro-Training\\Day-5_ExceptionHandling\\Day-5_FileHandling\\Day-5_FileHandling.csproj",
+>>>>>>> 3ce625b843563984856f0b8ddf5eb1321f3c5171
   "expectedPackageFiles": [],
   "logs": []
 }
